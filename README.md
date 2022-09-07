@@ -1,6 +1,7 @@
 # Natural-Language-Processing-CS4395
 Portfolio including all the work done for this class
 Homework 0
+https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Overview%20of%20NLP.pdf
 
 Homework 1
 https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Homework1_amn190000.py
