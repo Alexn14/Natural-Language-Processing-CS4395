@@ -9,3 +9,5 @@ Python has a simpler and easier to read syntax, which allows for shorter code an
 Most of it was review, I have not used regex in python or pickle, but they were overall straight forward.
 
 [Homework 2](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Assignment2_amn190000.ipynb%20-%20Colaboratory.pdf) <br />
+
+[Homework 3](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/WordNet_AMN190000.ipynb%20-%20Colaboratory.pdf) <br />
