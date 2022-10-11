@@ -11,3 +11,13 @@ Most of it was review, I have not used regex in python or pickle, but they were 
 [Homework 2](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Assignment2_amn190000.ipynb%20-%20Colaboratory.pdf) <br />
 
 [Homework 3](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/WordNet_AMN190000.ipynb%20-%20Colaboratory.pdf) <br />
+
+[Homework 4 - N-grams](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/ngrams_AMN190000.py) <br>
+[N-grams second file](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/prog2.py) 
+
+<br />
+
+[Homework 5 - Web Crawler](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/WebCrawler.py) <br>
+[Web Crawler Report](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Web%20Crawler%20Report.docx) 
+
+<br />
