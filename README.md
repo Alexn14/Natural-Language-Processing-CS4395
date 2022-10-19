@@ -21,3 +21,7 @@ Most of it was review, I have not used regex in python or pickle, but they were 
 [Web Crawler Report](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Web%20Crawler%20Report.docx) 
 
 <br />
+
+[Homework 6 - Sentence Parsing](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/cs4395_sentenceparsing_AMN190000.pdf) 
+
+<br />
