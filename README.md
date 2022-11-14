@@ -18,10 +18,8 @@ Most of it was review, I have not used regex in python or pickle, but they were 
 <br />
 
 [Homework 5 - Web Crawler](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/WebCrawler.py) <br>
-[Web Crawler Report](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Web%20Crawler%20Report.docx) 
+[Web Crawler Report](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/Web%20Crawler%20Report.docx) <br />
 
-<br />
+[Homework 6 - Sentence Parsing](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/cs4395_sentenceparsing_AMN190000.pdf) <br />
 
-[Homework 6 - Sentence Parsing](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/cs4395_sentenceparsing_AMN190000.pdf) 
-
-<br />
+[Homework 7 - ACL Paper Summary](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/ACL%20Paper%20Summary.docx) <br />
