@@ -25,3 +25,6 @@ Most of it was review, I have not used regex in python or pickle, but they were 
 [Homework 7 - ACL Paper Summary](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/ACL%20Paper%20Summary.docx) <br />
 
 [Author Attribution](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/CS4395_AuthorAttribution.ipynb%20-%20Colaboratory.pdf) <br />
+
+
+[Text Classification](https://github.com/Alexn14/Natural-Language-Processing-CS4395/blob/main/CS4395Text_Classification.ipynb%20-%20Colaboratory.pdf) <br />
